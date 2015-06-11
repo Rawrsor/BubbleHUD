@@ -1,0 +1,36 @@
+"Resource/UI/HudDemomanCharge.res"
+{	
+	"ChargeMeter"
+	{	
+		"ControlName"			"ContinuousProgressBar"
+		"fieldName"				"ChargeMeter"
+		"font"					"Default"
+		"xpos"					"c-60"
+		"ypos"					"c78"
+		"zpos"					"2"
+		"wide"					"120"
+		"tall"					"3"				
+		"autoResize"			"0"
+		"pinCorner"				"0"
+		"visible"				"1"
+		"enabled"				"1"
+		"textAlignment"			"Left"
+		"fgcolor"				"233 233 233 255"
+		"bgcolor_override"				"14 14 14 0"
+	}		
+	"ItemEffectMeterBG1"
+	{	
+		"ControlName"			"ImagePanel"
+		"fieldName"				"ItemEffectMeterBG1"
+		"xpos"					"c-60"
+		"ypos"					"c79"
+		"zpos"					"2"
+		"wide"					"120"
+		"tall"					"3"				
+		"autoResize"			"0"
+		"pinCorner"				"0"
+		"visible"				"1"
+		"enabled"				"1"
+		"fillcolor"				"14 14 14 140"
+	}								
+}

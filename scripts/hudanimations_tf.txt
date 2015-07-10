@@ -204,8 +204,8 @@ event KeyHintMessageHide
 //Health Bonus Pulse
 event HudHealthBonusPulse
 {
-	Animate	BuffedHealthBG				Position	"c-167 c60" Deaccel 0.0 0.25
-	Animate BuffedHealthBG				Alpha 		"255"		Deaccel 0.0 0.25
+	Animate	PlayerStatusHealthValue		FgColor 	"50 227 107 255"	Deaccel 0.0 0.2
+	Animate PlayerStatusHealthValue2	FgColor 	"50 227 107 255"	Deaccel 0.0 0.2
 
 	RunEvent HudHealthBonusPulseLoop	0.4
 }
@@ -213,18 +213,13 @@ event HudHealthBonusPulse
 // call to loop HudHealthBonusPulse
 event HudHealthBonusPulseLoop
 {
-	
-	Animate Buff 						Alpha 		"255"	Linear 0.0 0.25
-	Animate Buff 						Alpha 		"0"		Linear 0.25 0.50
-
 	RunEvent HudHealthBonusPulse 1
 }
 
 event HudHealthBonusPulseStop
 {
-	Animate	BuffedHealthBG				Position	"c-167 c75" Accel 0.0 0.25
-	Animate BuffedHealthBG				Alpha 		"0"		Accel 0.0 0.25
-	Animate Buff 						Alpha 		"0"		Linear 0.25 0.50
+	Animate	PlayerStatusHealthValue		FgColor 	"50 50 50 255"	Deaccel 0.0 0.2
+	Animate	PlayerStatusHealthValue2	FgColor 	"233 233 233 255"	Deaccel 0.0 0.2
 
 	StopEvent HudHealthBonusPulse 0.0
 	StopEvent HudHealthBonusPulseLoop 0.0
@@ -235,8 +230,8 @@ event HudHealthBonusPulseStop
 //Health Dying Pulse
 event HudHealthDyingPulse
 {
-	Animate	LowHealthBG				Position	"c-167 c60" Deaccel 0.0 0.25
-	Animate LowHealthBG				Alpha 		"255"		Deaccel 0.0 0.dsd
+	Animate	PlayerStatusHealthValue		FgColor 	"LowHealth"	Deaccel 0.0 0.2
+	Animate	PlayerStatusHealthValue2		FgColor 	"LowHealth"	Deaccel 0.0 0.2
 	
 	RunEvent HudHealthDyingPulseLoop	0.25
 }
@@ -244,9 +239,6 @@ event HudHealthDyingPulse
 // call to loop HudHealthDyingPulse
 event HudHealthDyingPulseLoop
 {
-	Animate Exclamation				Alpha 		"255"		Linear	0.0 0.25
-	Animate Exclamation				Alpha 		"0"			Linear  0.25 0.50
-	Animate LowHealthBG 			Alpha 		"255"		Linear  0.0 0.0
 
 	RunEvent	HudHealthDyingPulseLoop 1
 }
@@ -256,9 +248,8 @@ event HudHealthDyingPulseStop
 	StopEvent HudHealthDyingPulse 0.0
 	StopEvent HudHealthDyingPulseLoop 0.0
 
-	Animate	LowHealthBG				Position	"c-167 c75" Accel 0.0 0.25
-	Animate LowHealthBG				Alpha 		"0"		Accel 0.0 0.25
-	Animate Exclamation				Alpha 		"0"		Linear 0.0 0.0
+	Animate	PlayerStatusHealthValue		FgColor 	"50 50 50 255"	Deaccel 0.0 0.2
+	Animate	PlayerStatusHealthValue2		FgColor 	"233 233 233 255"	Deaccel 0.0 0.2
 }
 
 //===========================================
@@ -738,6 +729,9 @@ event NotificationsPresentBlinkStop
 
 event DamagedPlayer
 {
+
+	Animate Circle						FgColor		"250 83 57 130"	Deaccel 0.0 0.1
+	Animate Circle						FgColor		"14 14 14 100"	Deaccel 0.1 0.1
 
 }
 

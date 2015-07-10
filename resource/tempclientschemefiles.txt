@@ -1,0 +1,429 @@
+//Temp ClientScheme Files
+
+//HUD Colors
+		"AmmoInReserve"		"73 141 189 255"  //"247 30 95 255"
+		"LowHealth"			"242 36 60 255"
+		"BuffedHealth"		"50 227 107 255"
+		"teamRed"			"245 88 88 255"
+		"teamBlu"			"88 166 245 255"
+
+
+//Hud Fonts//
+
+		"HudHealthAmmo48"
+		{
+			"1"
+			{
+				"name"	"Istok Web Regular"
+				"antialias"	"1"
+				"tall"	"48"
+			}
+		}
+
+		"HudHealthAmmo48Bold"
+		{
+			"1"
+			{
+				"name"	"Istok Web Bold"
+				"antialias"	"1"
+				"tall"	"48"
+			}
+		}
+
+		"HudHealthAmmo30"
+		{
+			"1"
+			{
+				"name"	"Istok Web Regular"
+				"antialias"	"1"
+				"tall"	"30"
+			}
+		}
+
+		"HudHealthAmmo30Bold"
+		{
+			"1"
+			{
+				"name"	"Istok Web Bold"
+				"antialias"	"1"
+				"tall"	"30"
+			}
+		}
+
+		"HudHealthAmmo48Shadow"
+		{
+			"1"
+			{
+				"name"	"Istok Web Regular"
+				"antialias"	"1"
+				"tall"	"48"
+				"blur"	"1"
+			}
+		}
+
+		"HudHealthAmmo48ShadowBold"
+		{
+			"1"
+			{
+				"name"	"Istok Web Bold"
+				"antialias"	"1"
+				"tall"	"48"
+				"blur"	"1"
+			}
+		}
+
+		"HudHealthAmmo30Shadow"
+		{
+			"1"
+			{
+				"name"	"Istok Web Regular"
+				"antialias"	"1"
+				"tall"	"30"
+				"blur"	"1"
+			}
+		}
+
+		"HudHealthAmmo30ShadowBold"
+		{
+			"1"
+			{
+				"name"	"Istok Web Bold"
+				"antialias"	"1"
+				"tall"	"30"
+				"blur"	"1"
+			}
+		}
+
+		"Hud24"
+		{
+			"1"
+			{
+				"name"	"Istok Web Regular"
+				"antialias"	"1"
+				"tall"	"24"
+			}
+		}
+
+		"Hud24Shadow"
+		{
+			"1"
+			{
+				"name"	"Istok Web Regular"
+				"antialias"	"1"
+				"tall"	"24"
+				"blur"	"1"
+			}
+		}
+
+		"Hud24Bold"
+		{
+			"1"
+			{
+				"name"	"Istok Web Bold"
+				"antialias"	"1"
+				"tall"	"24"
+			}
+		}
+
+		"Hud24BoldShadow"
+		{
+			"1"
+			{
+				"name"	"Istok Web Bold"
+				"antialias"	"1"
+				"tall"	"24"
+				"blur"	"1"
+			}
+		}
+
+		"Hud18"
+		{
+			"1"
+			{
+				"name"	"Istok Web Regular"
+				"antialias"	"1"
+				"tall"	"18"
+			}
+		}
+
+		"Hud18Shadow"
+		{
+			"1"
+			{
+				"name"	"Istok Web Regular"
+				"antialias"	"1"
+				"tall"	"18"
+				"blur"	"1"
+			}
+		}
+
+		"Hud18Bold"
+		{
+			"1"
+			{
+				"name"	"Istok Web Bold"
+				"antialias"	"1"
+				"tall"	"18"
+			}
+		}
+
+		"Hud18BoldShadow"
+		{
+			"1"
+			{
+				"name"	"Istok Web Bold"
+				"antialias"	"1"
+				"tall"	"18"
+				"blur"	"1"
+			}
+		}
+
+		"Hud12"
+		{
+			"1"
+			{
+				"name"	"Istok Web Regular"
+				"antialias"	"1"
+				"tall"	"12"
+			}
+		}
+
+		"Hud12Shadow"
+		{
+			"1"
+			{
+				"name"	"Istok Web Regular"
+				"antialias"	"1"
+				"tall"	"12"
+				"blur"	"1"
+			}
+		}
+
+		"Hud12Bold"
+		{
+			"1"
+			{
+				"name"	"Istok Web Bold"
+				"antialias"	"1"
+				"tall"	"12"
+			}
+		}
+
+		"Hud12BoldShadow"
+		{
+			"1"
+			{
+				"name"	"Istok Web Bold"
+				"antialias"	"1"
+				"tall"	"12"
+				"blur"	"1"
+			}
+		}
+
+		"Circle18"
+		{
+			"1"
+			{
+				"name"	"Paula"
+				"antialias"	"1"
+				"tall"		"18"
+			}
+		}
+
+		"Circle18Shadow"
+		{
+			"1"
+			{
+				"name"	"Paula"
+				"antialias"	"1"
+				"tall"		"18"
+				"blur"	"1"
+			}
+		}
+
+		"Circle24"
+		{
+			"1"
+			{
+				"name"	"Paula"
+				"antialias"	"1"
+				"tall"		"24"
+			}
+		}
+
+		"Circle24Shadow"
+		{
+			"1"
+			{
+				"name"	"Paula"
+				"antialias"	"1"
+				"tall"		"24"
+				"blur"	"1"
+			}
+		}
+
+		"Circle32"
+		{
+			"1"
+			{
+				"name"	"Paula"
+				"antialias"	"1"
+				"tall"		"32"
+			}
+		}
+
+		"Circle32Shadow"
+		{
+			"1"
+			{
+				"name"	"Paula"
+				"antialias"	"1"
+				"tall"		"32"
+				"blur"	"1"
+			}
+		}
+
+		"Circle40"
+		{
+			"1"
+			{
+				"name"	"Paula"
+				"antialias"	"1"
+				"tall"		"40"
+			}
+		}
+
+		"Circle40Shadow"
+		{
+			"1"
+			{
+				"name"	"Paula"
+				"antialias"	"1"
+				"tall"		"40"
+				"blur"	"1"
+			}
+		}
+
+		"Circle50"
+		{
+			"1"
+			{
+				"name"	"Paula"
+				"antialias"	"1"
+				"tall"		"50"
+			}
+		}
+
+		"Circle50Shadow"
+		{
+			"1"
+			{
+				"name"	"Paula"
+				"antialias"	"1"
+				"tall"		"50"
+				"blur"	"1"
+			}
+		}
+
+		"Circle72"
+		{
+			"1"
+			{
+				"name"	"Paula"
+				"antialias"	"1"
+				"tall"		"72"
+			}
+		}
+
+		"Circle72Shadow"
+		{
+			"1"
+			{
+				"name"	"Paula"
+				"antialias"	"1"
+				"tall"		"72"
+				"blur"	"1"
+			}
+		}
+
+		//Crosshair Fonts
+		"CrossLarge"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosshairs"
+				"antialias"	"1"
+				"tall"		"32"
+			}
+		}
+		"CrossLargeS"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosshairs"
+				"antialias"	"1"
+				"tall"		"32"
+				"blur"		"1"
+			}
+		}
+
+		"CrossMed"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosshairs"
+				"antialias"	"1"
+				"tall"		"24"
+			}
+		}
+		"CrossMedS"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosshairs"
+				"antialias"	"1"
+				"tall"		"24"
+				"blur"		"1"
+			}
+		}
+
+		"CrossSmall"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosshairs"
+				"antialias"	"1"
+				"tall"		"18"
+			}
+		}
+		"CrossSmallS"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosshairs"
+				"antialias"	"1"
+				"tall"		"18"
+				"blur"		"1"
+			}
+		}
+
+		"7"
+		{
+			"font"	"resource/fonts/IstokWeb-Bold.ttf"
+			"name"	"Istok Web Bold"
+		}
+		"8"
+		{
+			"font"	"resource/fonts/IstokWeb-Regular.ttf"
+			"name"	"Istok Web Regular"
+		}
+		"9"
+		{
+			"font"	"resource/fonts/paula.ttf"
+			"name"	"Paula"
+		}
+		"10"
+		{
+			"font"	"resource/fonts/KnucklesCrosshairs.ttf"
+			"name"	"KnucklesCrosshairs"
+		}

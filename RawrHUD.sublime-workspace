@@ -8,10 +8,18 @@
 	"buffers":
 	[
 		{
+			"file": "resource/sourcescheme.res",
+			"settings":
+			{
+				"buffer_size": 55027,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "resource/clientscheme.res",
 			"settings":
 			{
-				"buffer_size": 97553,
+				"buffer_size": 118589,
 				"line_ending": "Unix"
 			}
 		},
@@ -43,7 +51,7 @@
 			"file": "scripts/hudanimations_tf.txt",
 			"settings":
 			{
-				"buffer_size": 22419,
+				"buffer_size": 22297,
 				"line_ending": "Unix"
 			}
 		},
@@ -227,7 +235,7 @@
 			"file": "scripts/hudlayout.res",
 			"settings":
 			{
-				"buffer_size": 22310,
+				"buffer_size": 22873,
 				"line_ending": "Unix"
 			}
 		},
@@ -236,6 +244,14 @@
 			"settings":
 			{
 				"buffer_size": 4249,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/ui/hudmenutauntselection.res",
+			"settings":
+			{
+				"buffer_size": 13294,
 				"line_ending": "Unix"
 			}
 		},
@@ -267,7 +283,7 @@
 			"file": "resource/ui/hudplayerhealth.res",
 			"settings":
 			{
-				"buffer_size": 13702,
+				"buffer_size": 14872,
 				"line_ending": "Unix"
 			}
 		},
@@ -283,7 +299,7 @@
 			"file": "resource/ui/scoreboard.res",
 			"settings":
 			{
-				"buffer_size": 32486,
+				"buffer_size": 32560,
 				"line_ending": "Unix"
 			}
 		},
@@ -307,7 +323,7 @@
 			"file": "resource/ui/targetid.res",
 			"settings":
 			{
-				"buffer_size": 5906,
+				"buffer_size": 6227,
 				"line_ending": "Unix"
 			}
 		},
@@ -320,7 +336,10 @@
 			}
 		},
 		{
+			"contents": "this is just a divider for sublime text",
 			"file": "--------------------------------------------.txt",
+			"file_size": 39,
+			"file_write_time": 130781930918292114,
 			"settings":
 			{
 				"buffer_size": 39,
@@ -331,7 +350,7 @@
 			"file": "resource/ui/disguise_menu/hudmenuspydisguise.res",
 			"settings":
 			{
-				"buffer_size": 8350,
+				"buffer_size": 8344,
 				"line_ending": "Unix"
 			}
 		},
@@ -478,6 +497,150 @@
 				"buffer_size": 2331,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "---------------------------------------------.txt",
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resource/ui/build_menu/hudmenuengybuild.res",
+			"settings":
+			{
+				"buffer_size": 7004,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/ui/build_menu/hudmenueurekaeffect.res",
+			"settings":
+			{
+				"buffer_size": 3688,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/ui/build_menu/base_unavailable_teleport_target.res",
+			"settings":
+			{
+				"buffer_size": 2033,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/ui/build_menu/base_active_teleport_target.res",
+			"settings":
+			{
+				"buffer_size": 1930,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/ui/build_menu/base_active.res",
+			"settings":
+			{
+				"buffer_size": 2553,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/ui/build_menu/base_already_built.res",
+			"settings":
+			{
+				"buffer_size": 2658,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/ui/build_menu/base_unavailable.res",
+			"settings":
+			{
+				"buffer_size": 2660,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/ui/build_menu/base_selectable.res",
+			"settings":
+			{
+				"buffer_size": 1897,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/ui/build_menu/base_cant_afford.res",
+			"settings":
+			{
+				"buffer_size": 2632,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/ui/build_menu/sentry_active.res",
+			"settings":
+			{
+				"buffer_size": 222,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/ui/build_menu/sentry_already_built.res",
+			"settings":
+			{
+				"buffer_size": 176,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/ui/build_menu/dispenser_active.res",
+			"settings":
+			{
+				"buffer_size": 231,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/ui/build_menu/tele_entrance_active.res",
+			"settings":
+			{
+				"buffer_size": 238,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/ui/build_menu/tele_exit_active.res",
+			"settings":
+			{
+				"buffer_size": 226,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "----------------------------------------------.txt",
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resource/ui/build_menu/pipboy/hudmenuengybuild.res",
+			"settings":
+			{
+				"buffer_size": 6175,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "-------------------------------------------------.txt",
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -512,6 +675,32 @@
 	},
 	"file_history":
 	[
+		"/C/csgo-ds/csgo/addons/sourcemod/configs/csgo_wpaints.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom_/ContestHUD/resource/ui/hudplayerhealth.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/tf2basehud-master/resource/ui/scoreboard.res",
+		"/C/Users/Drew/Documents/Rainmeter/Skins/X/X - info.ini",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/resource/ui/build_menu/eureka_target_home_avail.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/resource/ui/build_menu/eureka_target_home_unavail.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/-------------------------------------------- - Copy - Copy.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom_/_prism_hud/resource/sourcescheme.res",
+		"/C/Users/Drew/Documents/Rainmeter/Skins/VisBubble/BarExtrude.ini",
+		"/C/Users/Drew/Documents/Rainmeter/Skins/VisBubble/MultiLineExtrude.ini",
+		"/C/Users/Drew/Documents/Rainmeter/Skins/X/X - Info hidden.ini",
+		"/C/Users/Drew/Documents/Rainmeter/Skins/Icon Dock/@Resources/README.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/resource/tempclientschemefiles.txt",
+		"/C/Users/Drew/scoreboard.res",
+		"/C/Users/Drew/clientscheme.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/resource/clientscheme.res",
+		"/C/Users/Drew/DrooHUD/MintHUD/scripts/hudlayout.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/scripts/items/items_game.txt",
+		"/C/Users/Drew/tf2_vice/tf_weapon_rocketlauncher.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/Nosmoke/scripts/tf_weapon_grenadelauncher.ctx",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom_/_prism_hud/resource/ui/base_customs/healthcross.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom_/_prism_hud/resource/ui/hudplayerhealth.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/tf2basehud-master/resource/ui/build_menu/sentry_active.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/tf2basehud-master/resource/ui/build_menu/tele_entrance_active.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/tf2basehud-master/resource/ui/build_menu/dispenser_active.res",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/tf2basehud-master/resource/ui/build_menu/tele_exit_active.res",
 		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/-------------------------------.txt",
 		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/-----------.txt",
 		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/RawrHUD/resource/ui/disguise_menu/pyro_blue.res",
@@ -533,7 +722,7 @@
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -548,6 +737,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"kills",
+			"board",
+			"score",
 			"436",
 			"blue",
 			"//hud f",
@@ -600,40 +792,72 @@
 	"groups":
 	[
 		{
-			"selected": 34,
+			"selected": 28,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "resource/clientscheme.res",
+					"file": "resource/sourcescheme.res",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 97553,
+						"buffer_size": 55027,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1593,
-								1593
+								7194,
+								7194
 							]
 						],
 						"settings":
 						{
+							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 119.0,
+						"translation.y": 1620.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 21,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "resource/clientscheme.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 118589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								461,
+								474
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "resource/ui/classselection.res",
 					"semi_transient": false,
 					"settings":
@@ -655,14 +879,14 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 875.0,
+						"translation.y": 77.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 27,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "resource/ui/disguisestatuspanel.res",
 					"semi_transient": false,
 					"settings":
@@ -687,11 +911,11 @@
 						"translation.y": 544.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 41,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "resource/ui/hudaccountpanel.res",
 					"semi_transient": false,
 					"settings":
@@ -716,40 +940,41 @@
 						"translation.y": 165.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 42,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "scripts/hudanimations_tf.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 22419,
+						"buffer_size": 22297,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								10438,
-								10438
+								6679,
+								6679
 							]
 						],
 						"settings":
 						{
+							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4530.0,
+						"translation.y": 2992.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 6,
 					"file": "resource/ui/hudbowcharge.res",
 					"semi_transient": false,
 					"settings":
@@ -774,11 +999,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 50,
+					"stack_index": 71,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "resource/ui/huddemomancharge.res",
 					"semi_transient": false,
 					"settings":
@@ -803,11 +1028,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 49,
+					"stack_index": 70,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 8,
 					"file": "resource/ui/huddemomanpipes.res",
 					"semi_transient": false,
 					"settings":
@@ -832,11 +1057,11 @@
 						"translation.y": 270.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 46,
+					"stack_index": 69,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 9,
 					"file": "resource/ui/hudammoweapons.res",
 					"semi_transient": false,
 					"settings":
@@ -861,11 +1086,11 @@
 						"translation.y": 702.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 51,
+					"stack_index": 72,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 10,
 					"file": "resource/ui/huditemeffectmeter.res",
 					"semi_transient": false,
 					"settings":
@@ -890,11 +1115,11 @@
 						"translation.y": 638.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 40,
+					"stack_index": 64,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 11,
 					"file": "resource/ui/huditemeffectmeter_cleaver.res",
 					"semi_transient": false,
 					"settings":
@@ -912,18 +1137,19 @@
 						],
 						"settings":
 						{
+							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 630.0,
+						"translation.y": 28.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 38,
+					"stack_index": 26,
 					"type": "text"
 				},
 				{
-					"buffer": 11,
+					"buffer": 12,
 					"file": "resource/ui/huditemeffectmeter_demoman.res",
 					"semi_transient": false,
 					"settings":
@@ -948,11 +1174,11 @@
 						"translation.y": 765.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 44,
+					"stack_index": 67,
 					"type": "text"
 				},
 				{
-					"buffer": 12,
+					"buffer": 13,
 					"file": "resource/ui/huditemeffectmeter_engineer.res",
 					"semi_transient": false,
 					"settings":
@@ -977,11 +1203,11 @@
 						"translation.y": 726.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 43,
+					"stack_index": 66,
 					"type": "text"
 				},
 				{
-					"buffer": 13,
+					"buffer": 14,
 					"file": "resource/ui/huditemeffectmeter_heavy.res",
 					"semi_transient": false,
 					"settings":
@@ -1006,11 +1232,11 @@
 						"translation.y": 45.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 55,
+					"stack_index": 76,
 					"type": "text"
 				},
 				{
-					"buffer": 14,
+					"buffer": 15,
 					"file": "resource/ui/huditemeffectmeter_killstreak.res",
 					"semi_transient": false,
 					"settings":
@@ -1035,11 +1261,11 @@
 						"translation.y": 105.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 40,
 					"type": "text"
 				},
 				{
-					"buffer": 15,
+					"buffer": 16,
 					"file": "resource/ui/huditemeffectmeter_particlecannon.res",
 					"semi_transient": false,
 					"settings":
@@ -1064,11 +1290,11 @@
 						"translation.y": 450.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 53,
+					"stack_index": 74,
 					"type": "text"
 				},
 				{
-					"buffer": 16,
+					"buffer": 17,
 					"file": "resource/ui/huditemeffectmeter_pomson.res",
 					"semi_transient": false,
 					"settings":
@@ -1086,6 +1312,7 @@
 						],
 						"settings":
 						{
+							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
@@ -1093,11 +1320,11 @@
 						"translation.y": 405.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 39,
+					"stack_index": 23,
 					"type": "text"
 				},
 				{
-					"buffer": 17,
+					"buffer": 18,
 					"file": "resource/ui/huditemeffectmeter_powerupbottle.res",
 					"semi_transient": false,
 					"settings":
@@ -1122,11 +1349,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 57,
+					"stack_index": 78,
 					"type": "text"
 				},
 				{
-					"buffer": 18,
+					"buffer": 19,
 					"file": "resource/ui/huditemeffectmeter_raygun.res",
 					"semi_transient": false,
 					"settings":
@@ -1151,11 +1378,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 41,
+					"stack_index": 65,
 					"type": "text"
 				},
 				{
-					"buffer": 19,
+					"buffer": 20,
 					"file": "resource/ui/huditemeffectmeter_sapper.res",
 					"semi_transient": false,
 					"settings":
@@ -1180,11 +1407,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 56,
+					"stack_index": 77,
 					"type": "text"
 				},
 				{
-					"buffer": 20,
+					"buffer": 21,
 					"file": "resource/ui/huditemeffectmeter_scout.res",
 					"semi_transient": false,
 					"settings":
@@ -1209,11 +1436,11 @@
 						"translation.y": 90.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 54,
+					"stack_index": 75,
 					"type": "text"
 				},
 				{
-					"buffer": 21,
+					"buffer": 22,
 					"file": "resource/ui/huditemeffectmeter_sodapopper.res",
 					"semi_transient": false,
 					"settings":
@@ -1225,12 +1452,13 @@
 						"selection":
 						[
 							[
-								1729,
-								2041
+								1910,
+								1910
 							]
 						],
 						"settings":
 						{
+							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
@@ -1238,11 +1466,11 @@
 						"translation.y": 540.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 47,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 22,
+					"buffer": 23,
 					"file": "resource/ui/huditemeffectmeter_sniper.res",
 					"semi_transient": false,
 					"settings":
@@ -1267,11 +1495,11 @@
 						"translation.y": 856.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 45,
+					"stack_index": 68,
 					"type": "text"
 				},
 				{
-					"buffer": 23,
+					"buffer": 24,
 					"file": "resource/ui/huditemeffectmeter_sniperfocus.res",
 					"semi_transient": false,
 					"settings":
@@ -1296,11 +1524,11 @@
 						"translation.y": 405.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 37,
+					"stack_index": 63,
 					"type": "text"
 				},
 				{
-					"buffer": 24,
+					"buffer": 25,
 					"file": "resource/ui/huditemeffectmeter_spy.res",
 					"semi_transient": false,
 					"settings":
@@ -1318,6 +1546,7 @@
 						],
 						"settings":
 						{
+							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
@@ -1325,11 +1554,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 48,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 25,
+					"buffer": 26,
 					"file": "resource/ui/huditemeffectmeter_spyknife.res",
 					"semi_transient": false,
 					"settings":
@@ -1354,11 +1583,11 @@
 						"translation.y": 540.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 52,
+					"stack_index": 73,
 					"type": "text"
 				},
 				{
-					"buffer": 26,
+					"buffer": 27,
 					"file": "resource/ui/hudkillstreaknotice.res",
 					"semi_transient": false,
 					"settings":
@@ -1376,6 +1605,7 @@
 						],
 						"settings":
 						{
+							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
@@ -1383,40 +1613,41 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 27,
+					"buffer": 28,
 					"file": "scripts/hudlayout.res",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 22310,
+						"buffer_size": 22873,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4027,
-								4027
+								4560,
+								4560
 							]
 						],
 						"settings":
 						{
+							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2925.0,
+						"translation.y": 3322.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 28,
+					"buffer": 29,
 					"file": "resource/ui/hudmediccharge.res",
 					"semi_transient": false,
 					"settings":
@@ -1441,11 +1672,41 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 39,
 					"type": "text"
 				},
 				{
-					"buffer": 29,
+					"buffer": 30,
+					"file": "resource/ui/hudmenutauntselection.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1084,
+								1297
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
 					"file": "resource/ui/hudobjectivekothtimepanel.res",
 					"semi_transient": false,
 					"settings":
@@ -1463,6 +1724,7 @@
 						],
 						"settings":
 						{
+							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
@@ -1470,11 +1732,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 36,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 30,
+					"buffer": 32,
 					"file": "resource/ui/hudobjectivestatus.res",
 					"semi_transient": false,
 					"settings":
@@ -1492,6 +1754,7 @@
 						],
 						"settings":
 						{
+							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
@@ -1499,11 +1762,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 25,
 					"type": "text"
 				},
 				{
-					"buffer": 31,
+					"buffer": 33,
 					"file": "resource/ui/hudobjectivetimepanel.res",
 					"semi_transient": false,
 					"settings":
@@ -1528,40 +1791,41 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 43,
 					"type": "text"
 				},
 				{
-					"buffer": 32,
+					"buffer": 34,
 					"file": "resource/ui/hudplayerhealth.res",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 13702,
+						"buffer_size": 14872,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4200,
-								4288
+								1046,
+								1046
 							]
 						],
 						"settings":
 						{
+							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2425.0,
+						"translation.y": 150.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 33,
+					"buffer": 35,
 					"file": "resource/ui/hudplayerclass.res",
 					"semi_transient": false,
 					"settings":
@@ -1579,6 +1843,7 @@
 						],
 						"settings":
 						{
+							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
@@ -1586,40 +1851,41 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 58,
+					"stack_index": 24,
 					"type": "text"
 				},
 				{
-					"buffer": 34,
+					"buffer": 36,
 					"file": "resource/ui/scoreboard.res",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 32486,
+						"buffer_size": 32560,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								29009,
-								29009
+								7990,
+								7990
 							]
 						],
 						"settings":
 						{
+							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 20611.0,
+						"translation.y": 6390.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
-					"buffer": 35,
+					"buffer": 37,
 					"file": "resource/ui/spectator.res",
 					"semi_transient": false,
 					"settings":
@@ -1641,14 +1907,14 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1160.0,
+						"translation.y": 362.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 38,
 					"type": "text"
 				},
 				{
-					"buffer": 36,
+					"buffer": 38,
 					"file": "resource/ui/spectatorguihealth.res",
 					"semi_transient": false,
 					"settings":
@@ -1660,53 +1926,55 @@
 						"selection":
 						[
 							[
-								1886,
-								1886
+								1426,
+								1450
 							]
 						],
 						"settings":
 						{
+							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 82.0,
+						"translation.y": 630.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 42,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 37,
+					"buffer": 39,
 					"file": "resource/ui/targetid.res",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5906,
+						"buffer_size": 6227,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1952,
-								1952
+								2032,
+								2032
 							]
 						],
 						"settings":
 						{
+							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 546.0,
+						"translation.y": 1978.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 35,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 38,
+					"buffer": 40,
 					"file": "resource/ui/teammenu.res",
 					"semi_transient": false,
 					"settings":
@@ -1731,11 +1999,11 @@
 						"translation.y": 581.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 34,
+					"stack_index": 62,
 					"type": "text"
 				},
 				{
-					"buffer": 39,
+					"buffer": 41,
 					"file": "--------------------------------------------.txt",
 					"semi_transient": false,
 					"settings":
@@ -1759,24 +2027,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 33,
+					"stack_index": 61,
 					"type": "text"
 				},
 				{
-					"buffer": 40,
+					"buffer": 42,
 					"file": "resource/ui/disguise_menu/hudmenuspydisguise.res",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8350,
+						"buffer_size": 8344,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								335,
-								619
+								867,
+								867
 							]
 						],
 						"settings":
@@ -1788,11 +2056,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 35,
 					"type": "text"
 				},
 				{
-					"buffer": 41,
+					"buffer": 43,
 					"file": "resource/ui/disguise_menu/scout_red.res",
 					"semi_transient": false,
 					"settings":
@@ -1817,11 +2085,11 @@
 						"translation.y": 225.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 32,
+					"stack_index": 60,
 					"type": "text"
 				},
 				{
-					"buffer": 42,
+					"buffer": 44,
 					"file": "resource/ui/disguise_menu/scout_blue.res",
 					"semi_transient": false,
 					"settings":
@@ -1839,6 +2107,7 @@
 						],
 						"settings":
 						{
+							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
@@ -1846,11 +2115,11 @@
 						"translation.y": 540.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 31,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
-					"buffer": 43,
+					"buffer": 45,
 					"file": "resource/ui/disguise_menu/soldier_red.res",
 					"semi_transient": false,
 					"settings":
@@ -1875,11 +2144,11 @@
 						"translation.y": 1154.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 30,
+					"stack_index": 59,
 					"type": "text"
 				},
 				{
-					"buffer": 44,
+					"buffer": 46,
 					"file": "resource/ui/disguise_menu/soldier_blue.res",
 					"semi_transient": false,
 					"settings":
@@ -1904,11 +2173,11 @@
 						"translation.y": 1093.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 29,
+					"stack_index": 58,
 					"type": "text"
 				},
 				{
-					"buffer": 45,
+					"buffer": 47,
 					"file": "resource/ui/disguise_menu/pyro_red.res",
 					"semi_transient": false,
 					"settings":
@@ -1933,11 +2202,11 @@
 						"translation.y": 1178.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 27,
+					"stack_index": 56,
 					"type": "text"
 				},
 				{
-					"buffer": 46,
+					"buffer": 48,
 					"file": "resource/ui/disguise_menu/pyro_blue.res",
 					"semi_transient": false,
 					"settings":
@@ -1962,11 +2231,11 @@
 						"translation.y": 1156.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 28,
+					"stack_index": 57,
 					"type": "text"
 				},
 				{
-					"buffer": 47,
+					"buffer": 49,
 					"file": "resource/ui/disguise_menu/demoman_red.res",
 					"semi_transient": false,
 					"settings":
@@ -1991,11 +2260,11 @@
 						"translation.y": 1184.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 26,
+					"stack_index": 55,
 					"type": "text"
 				},
 				{
-					"buffer": 48,
+					"buffer": 50,
 					"file": "resource/ui/disguise_menu/demoman_blue.res",
 					"semi_transient": false,
 					"settings":
@@ -2020,11 +2289,11 @@
 						"translation.y": 1294.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 25,
+					"stack_index": 54,
 					"type": "text"
 				},
 				{
-					"buffer": 49,
+					"buffer": 51,
 					"file": "resource/ui/disguise_menu/heavy_red.res",
 					"semi_transient": false,
 					"settings":
@@ -2049,11 +2318,11 @@
 						"translation.y": 1177.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 24,
+					"stack_index": 53,
 					"type": "text"
 				},
 				{
-					"buffer": 50,
+					"buffer": 52,
 					"file": "resource/ui/disguise_menu/heavy_blue.res",
 					"semi_transient": false,
 					"settings":
@@ -2078,11 +2347,11 @@
 						"translation.y": 1252.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 23,
+					"stack_index": 52,
 					"type": "text"
 				},
 				{
-					"buffer": 51,
+					"buffer": 53,
 					"file": "resource/ui/disguise_menu/engineer_red.res",
 					"semi_transient": false,
 					"settings":
@@ -2107,11 +2376,11 @@
 						"translation.y": 1138.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 22,
+					"stack_index": 51,
 					"type": "text"
 				},
 				{
-					"buffer": 52,
+					"buffer": 54,
 					"file": "resource/ui/disguise_menu/engineer_blue.res",
 					"semi_transient": false,
 					"settings":
@@ -2136,11 +2405,11 @@
 						"translation.y": 1107.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 21,
+					"stack_index": 50,
 					"type": "text"
 				},
 				{
-					"buffer": 53,
+					"buffer": 55,
 					"file": "resource/ui/disguise_menu/medic_red.res",
 					"semi_transient": false,
 					"settings":
@@ -2165,11 +2434,11 @@
 						"translation.y": 1162.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 49,
 					"type": "text"
 				},
 				{
-					"buffer": 54,
+					"buffer": 56,
 					"file": "resource/ui/disguise_menu/medic_blue.res",
 					"semi_transient": false,
 					"settings":
@@ -2194,11 +2463,11 @@
 						"translation.y": 1111.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 48,
 					"type": "text"
 				},
 				{
-					"buffer": 55,
+					"buffer": 57,
 					"file": "resource/ui/disguise_menu/sniper_red.res",
 					"semi_transient": false,
 					"settings":
@@ -2223,11 +2492,11 @@
 						"translation.y": 1110.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 47,
 					"type": "text"
 				},
 				{
-					"buffer": 56,
+					"buffer": 58,
 					"file": "resource/ui/disguise_menu/sniper_blue.res",
 					"semi_transient": false,
 					"settings":
@@ -2252,11 +2521,11 @@
 						"translation.y": 1109.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 46,
 					"type": "text"
 				},
 				{
-					"buffer": 57,
+					"buffer": 59,
 					"file": "resource/ui/disguise_menu/spy_red.res",
 					"semi_transient": false,
 					"settings":
@@ -2281,11 +2550,11 @@
 						"translation.y": 1299.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 45,
 					"type": "text"
 				},
 				{
-					"buffer": 58,
+					"buffer": 60,
 					"file": "resource/ui/disguise_menu/spy_blue.res",
 					"semi_transient": false,
 					"settings":
@@ -2310,7 +2579,533 @@
 						"translation.y": 1157.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 44,
+					"type": "text"
+				},
+				{
+					"buffer": 61,
+					"file": "---------------------------------------------.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 62,
+					"file": "resource/ui/build_menu/hudmenuengybuild.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7004,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3284,
+								3284
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2025.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 63,
+					"file": "resource/ui/build_menu/hudmenueurekaeffect.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3599,
+								3599
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 64,
+					"file": "resource/ui/build_menu/base_unavailable_teleport_target.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2033,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1862,
+								1862
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 990.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 65,
+					"file": "resource/ui/build_menu/base_active_teleport_target.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1930,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1603,
+								1928
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 66,
+					"file": "resource/ui/build_menu/base_active.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2189,
+								2551
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1176.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 67,
+					"file": "resource/ui/build_menu/base_already_built.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								863,
+								863
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 168.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 68,
+					"file": "resource/ui/build_menu/base_unavailable.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1071,
+								1071
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 69,
+					"file": "resource/ui/build_menu/base_selectable.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								835,
+								835
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 70,
+					"file": "resource/ui/build_menu/base_cant_afford.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								883,
+								883
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 294.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 71,
+					"file": "resource/ui/build_menu/sentry_active.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 72,
+					"file": "resource/ui/build_menu/sentry_already_built.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 73,
+					"file": "resource/ui/build_menu/dispenser_active.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 36,
+					"type": "text"
+				},
+				{
+					"buffer": 74,
+					"file": "resource/ui/build_menu/tele_entrance_active.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								190
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 37,
+					"type": "text"
+				},
+				{
+					"buffer": 75,
+					"file": "resource/ui/build_menu/tele_exit_active.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 76,
+					"file": "----------------------------------------------.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 77,
+					"file": "resource/ui/build_menu/pipboy/hudmenuengybuild.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1582,
+								1582
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 518.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 78,
+					"file": "-------------------------------------------------.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
 					"type": "text"
 				}
 			]

@@ -1,5 +1,39 @@
 "Resource/HudLayout.res"
 {
+	
+	//Rawrsor's Crosshair
+	Circle
+	{
+		"fieldName"		"Circle"
+		"controlName"	"CExLabel"
+		"visible"		"1"
+		"enabled"		"1"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"f0"
+		"tall"			"f0"
+		"textAlignment"	"center"
+		"font"			"CrossMed"
+		"fgcolor"		"14 14 14 100"
+		"labelText"		"m"
+	}
+	Dot
+	{
+		"fieldName"		"Dot"
+		"controlName"	"CExLabel"
+		"visible"		"1"
+		"enabled"		"1"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"f0"
+		"tall"			"f0"
+		"textAlignment"	"center"
+		"font"			"CrossMed"
+		"fgcolor"		"0 255 0 255"
+		"labelText"		"n"
+	}
+
+
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"
@@ -220,8 +254,8 @@
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"c-263"	[$WIN32]
-		"ypos"		"c80"	[$WIN32]
+		"xpos"		"c-343"	[$WIN32]
+		"ypos"		"c40"	[$WIN32]
 		"wide"		"500"
 		"tall"		"200"
 		"TextFont"	"Default"	[$X360]
@@ -234,6 +268,7 @@
 		"enabled" 	"1"
 		"xpos"		"c-126"
 		"ypos"		"350"
+		"zpos"		"5"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
@@ -679,6 +714,7 @@
 		"enabled" "1"
 		"wide"	 "640"
 		"tall"	 "480"
+		"zpos"	"-21"
 	}
 	
 	HudScopeCharge
@@ -978,9 +1014,9 @@
 		"fieldName" 	"HudEurekaEffectTeleportMenu"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"c-125"
+		"xpos"			"c-100"
 		"ypos"			"c-55"
-		"wide"			"250"
+		"wide"			"400"
 		"tall"			"195"
 		"PaintBackgroundType"	"0"
 	}

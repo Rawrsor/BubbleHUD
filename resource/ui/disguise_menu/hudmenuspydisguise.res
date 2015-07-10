@@ -27,7 +27,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"paintbackground"	"1"
-		"defaultbgcolor_override"		"233 233 255 255"
+		"defaultbgcolor_override"		"50 50 50 255"
 		"textinsetx"	"999999"
 	}
 	"SpyBG2"
@@ -42,7 +42,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"paintbackground"	"1"
-		"defaultbgcolor_override"		"233 233 255 255"
+		"defaultbgcolor_override"		"50 50 50 255"
 		"textinsetx"	"999999"
 	}
 

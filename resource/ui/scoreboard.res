@@ -13,13 +13,15 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
+		"medal_width"		"15"
 		"avatar_width"		"57"	[$WIN32]
-		"name_width"		"85"	[$WIN32]
+		"name_width"		"80"	[$WIN32]
 		"status_width"		"15"	[$WIN32]
 		"nemesis_width"		"15"	[$WIN32]
 		"class_width"		"15"	[$WIN32]
-		"score_width"		"25"
+		"score_width"		"20"
 		"ping_width"		"23"	[$WIN32]
+		"stats_width"		"30"
 	}
 
 	"BottomBG"
@@ -448,6 +450,7 @@
 		"pin_to_sibling" "GreyBG"
 		"pin_corner_to_sibling" "1"
 		"pin_to_sibling_corner" "1"
+		"show_columns"	"0"
 		
 		if_mvm
 		{
@@ -1025,7 +1028,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"buffedhealth"
+			"fgcolor_override"		"buffedhealth"
 		}						
 		"Deaths"
 		{

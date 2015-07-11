@@ -39,6 +39,67 @@
 		"defaultbgcolor_override"		"50 50 50 255"
 		"textinsetx"	"999999"
 	}
+	"BottomBG2"
+	{
+		"ControlName"	"CExImageButton"
+		"fieldName"		"bottomBG2"
+		"xpos"			"c-370"
+		"ypos"			"340" //c60
+		"zpos"			"-3"
+		"wide"			"525"
+		"tall"			"12"
+		"visible"		"1"
+		"enabled"		"1"
+		"paintbackground"	"1"
+		"defaultbgcolor_override"		"AmmoInReserve"
+		"textinsetx"	"999999"
+	}
+	"BottomBG3"
+	{
+		"ControlName"	"Imagepanel"
+		"fieldName"		"bottomBG3"
+		"xpos"			"c-370"
+		"ypos"			"344" //c60
+		"zpos"			"-3"
+		"wide"			"525"
+		"tall"			"8"
+		"visible"		"1"
+		"enabled"		"1"
+		"paintbackground"	"1"
+		"fillcolor"		"AmmoInReserve"
+		"textinsetx"	"999999"
+	}
+	"BottomBG4"
+	{
+		"ControlName"	"CExImageButton"
+		"fieldName"		"bottomBG2"
+		"xpos"			"c-370"
+		"ypos"			"398" //c60
+		"zpos"			"-3"
+		"wide"			"525"
+		"tall"			"12"
+		"visible"		"1"
+		"enabled"		"1"
+		"paintbackground"	"1"
+		"defaultbgcolor_override"		"AmmoInReserve"
+		"textinsetx"	"999999"
+	}
+	"BottomBG5"
+	{
+		"ControlName"	"Imagepanel"
+		"fieldName"		"bottomBG5"
+		"xpos"			"c-370"
+		"ypos"			"398" //c60
+		"zpos"			"-3"
+		"wide"			"525"
+		"tall"			"8"
+		"visible"		"1"
+		"enabled"		"1"
+		"paintbackground"	"1"
+		"fillcolor"		"AmmoInReserve"
+		"textinsetx"	"999999"
+	}
+
 
 	"ScoreBG"
 	{
@@ -392,8 +453,8 @@
 		"font"			"ScoreboardVerySmall"
 		"labelText"		"%server%"
 		"textAlignment"		"west"
-		"xpos"			"58"
-		"ypos"			"321"
+		"xpos"			"60"
+		"ypos"			"336"
 		"ypos_lodef"	"62"
 		"wide"			"300"
 		"tall"			"20"
@@ -415,8 +476,8 @@
 		"font"			"ScoreboardVerySmall"
 		"labelText"		"%servertimeleft%"
 		"textAlignment"		"east"
-		"xpos"			"280"
-		"ypos"			"321"
+		"xpos"			"278"
+		"ypos"			"336"
 		"wide"			"300"
 		"tall"			"20"
 		"autoResize"	"0"
@@ -511,10 +572,8 @@
 		"font"			"ScoreboardVerySmall"
 		"labelText"		"%spectators%"
 		"textAlignment"		"west"
-		"xpos"			"115"
-		"xpos_hidef"	"135"
-		"ypos"			"357"	[$WIN32]
-		"ypos"			"277"	[$X360]
+		"xpos"			"63"
+		"ypos"			"394"	[$WIN32]
 		"zpos"			"4"
 		"wide"			"424"
 		"tall"			"20"
@@ -522,6 +581,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+		"fgcolor_override"	"233 233 233 255"
 		
 		if_mvm
 		{
@@ -624,11 +684,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"mapname"
-		"font"			"ScoreboardMedium"
+		"font"			"ScoreboardVerySmall"
 		"labelText"		"%mapname%"
 		"textAlignment"	"east"
-		"xpos"			"9999"
-		"ypos"			"375"
+		"xpos"			"412"
+		"ypos"			"394"
 		"zpos"			"3"
 		"wide"			"165"
 		"tall"			"20"
@@ -636,7 +696,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"236 227 203 255"
+		"fgcolor"		"233 233 233 255"
 
 		if_mvm
 		{
@@ -699,7 +759,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"		"LocalPlayerDuelStatsPanel"
 		"xpos"			"0"
-		"ypos"			"395"
+		"ypos"			"397"
 		"zpos"			"3"
 		"wide"			"600"
 		"tall"			"53"
@@ -910,7 +970,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"		"LocalPlayerStatsPanel"
 		"xpos"			"0"
-		"ypos"			"350"
+		"ypos"			"351"
 		"zpos"			"3"
 		"wide"			"600"
 		"tall"			"448"
@@ -1012,10 +1072,10 @@
 			"enabled"		"1"
 			"fgcolor"		"233 233 233 255"
 		}											
-		"Kills"
+		"Kills2"
 		{
 			"ControlName"		"CExLabel"
-			"fieldName"		"Kills"
+			"fieldName"		"Kills2"
 			"font"			"HudHealthAmmo48Bold"
 			"labelText"		"%kills%"
 			"textAlignment"		"east"
@@ -1030,10 +1090,10 @@
 			"enabled"		"1"
 			"fgcolor_override"		"buffedhealth"
 		}						
-		"Deaths"
+		"Deaths2"
 		{
 			"ControlName"		"CExLabel"
-			"fieldName"		"Deaths"
+			"fieldName"		"Deaths2"
 			"font"			"HudHealthAmmo48Bold"
 			"labelText"		"%deaths%"
 			"textAlignment"		"west"
@@ -1067,10 +1127,10 @@
 			"enabled"		"0"
 			"fgcolor"		"185 177 153 255"
 		}							
-		"Assists"
+		"Assists2"
 		{
 			"ControlName"		"CExLabel"
-			"fieldName"		"Assists"
+			"fieldName"		"Assists2"
 			"font"			"Hud12"
 			"labelText"		"%assists%"
 			"textAlignment"		"west"
@@ -1085,10 +1145,10 @@
 			"enabled"		"1"
 			"fgcolor"		"233 233 233 255"
 		}						
-		"Destruction"
+		"Destruction2"
 		{
 			"ControlName"		"CExLabel"
-			"fieldName"		"Destruction"
+			"fieldName"		"Destruction2"
 			"font"			"Hud12"
 			"labelText"		"%destruction%"
 			"textAlignment"		"west"
@@ -1175,10 +1235,10 @@
 			"enabled"		"1"
 			"fgcolor"		"233 233 233 255"
 		}						
-		"Captures"
+		"Captures2"
 		{
 			"ControlName"		"CExLabel"
-			"fieldName"		"Captures"
+			"fieldName"		"Captures2"
 			"font"			"Hud12"
 			"labelText"		"%captures%"
 			"textAlignment"		"west"
@@ -1193,10 +1253,10 @@
 			"enabled"		"1"
 			"fgcolor"		"233 233 233 255"
 		}						
-		"Defenses"
+		"Defenses2"
 		{
 			"ControlName"		"CExLabel"
-			"fieldName"		"Defenses"
+			"fieldName"		"Defenses2"
 			"font"			"Hud12"
 			"labelText"		"%defenses%"
 			"textAlignment"		"west"
@@ -1211,10 +1271,10 @@
 			"enabled"		"1"
 			"fgcolor"		"233 233 233 255"
 		}						
-		"Domination"
+		"Domination2"
 		{
 			"ControlName"		"CExLabel"
-			"fieldName"		"Domination"
+			"fieldName"		"Domination2"
 			"font"			"Hud12"
 			"labelText"		"%dominations%"
 			"textAlignment"		"west"
@@ -1229,10 +1289,10 @@
 			"enabled"		"1"
 			"fgcolor"		"233 233 233 255"
 		}						
-		"Revenge"
+		"Revenge2"
 		{
 			"ControlName"		"CExLabel"
-			"fieldName"		"Revenge"
+			"fieldName"		"Revenge2"
 			"font"			"Hud12"
 			"labelText"		"%Revenge%"
 			"textAlignment"		"west"
@@ -1319,10 +1379,10 @@
 			"enabled"		"1"
 			"fgcolor"		"233 233 233 255"
 		}						
-		"Healing"
+		"Healing2"
 		{
 			"ControlName"		"CExLabel"
-			"fieldName"		"Healing"
+			"fieldName"		"Healing2"
 			"font"			"Hud12"
 			"labelText"		"%healing%"
 			"textAlignment"		"west"
@@ -1337,10 +1397,10 @@
 			"enabled"		"1"
 			"fgcolor"		"233 233 233 255"
 		}						
-		"Invuln"
+		"Invuln2"
 		{
 			"ControlName"		"CExLabel"
-			"fieldName"		"Invuln"
+			"fieldName"		"Invuln2"
 			"font"			"Hud12"
 			"labelText"		"%invulns%"
 			"textAlignment"		"west"
@@ -1355,10 +1415,10 @@
 			"enabled"		"1"
 			"fgcolor"		"233 233 233 255"
 		}						
-		"Teleports"
+		"Teleports2"
 		{
 			"ControlName"		"CExLabel"
-			"fieldName"		"Teleports"
+			"fieldName"		"Teleports2"
 			"font"			"Hud12"
 			"labelText"		"%teleports%"
 			"textAlignment"		"west"
@@ -1373,10 +1433,10 @@
 			"enabled"		"1"
 			"fgcolor"		"233 233 233 255"
 		}						
-		"Headshots"
+		"Headshots2"
 		{
 			"ControlName"		"CExLabel"
-			"fieldName"		"Headshots"
+			"fieldName"		"Headshots2"
 			"font"			"Hud12"
 			"labelText"		"%headshots%"
 			"textAlignment"		"west"
@@ -1409,10 +1469,10 @@
 			"enabled"		"1"
 			"fgcolor"		"233 233 233 255"
 		}
-		"Backstabs"
+		"Backstabs2"
 		{
 			"ControlName"		"CExLabel"
-			"fieldName"		"Backstabs"
+			"fieldName"		"Backstabs2"
 			"font"			"hud12"
 			"labelText"		"%backstabs%"
 			"textAlignment"		"west"		[$WIN32]
@@ -1446,10 +1506,10 @@
 			"enabled"		"1"
 			"fgcolor"		"233 233 233 255"
 		}
-		"Bonus"
+		"Bonus2"
 		{
 			"ControlName"		"CExLabel"
-			"fieldName"		"Bonus"
+			"fieldName"		"Bonus2"
 			"font"			"Hud12"
 			"labelText"		"%bonus%"
 			"textAlignment"		"west"		[$WIN32]
@@ -1482,10 +1542,10 @@
 			"enabled"		"1"
 			"fgcolor"		"233 233 233 255"
 		}
-		"Support"
+		"Support2"
 		{
 			"ControlName"	"CExLabel"
-			"fieldName"		"Support"
+			"fieldName"		"Support2"
 			"font"			"hud12"
 			"labelText"		"%support%"
 			"textAlignment"	"west"		[$WIN32]
@@ -1518,10 +1578,10 @@
 			"enabled"		"1"
 			"fgcolor"		"233 233 233 255"
 		}
-		"Damage"
+		"Damage2"
 		{
 			"ControlName"	"CExLabel"
-			"fieldName"		"Damage"
+			"fieldName"		"Damage2"
 			"font"			"Hud12"
 			"labelText"		"%damage%"
 			"textAlignment"	"west"		[$WIN32]

@@ -19,7 +19,7 @@ Scheme
 	Colors
 	{
 		//HUD Colors
-		"AmmoInReserve"		"175 56 78 255"  //"247 30 95 255"
+		"AmmoInReserve"		"247 30 95 255"  //"247 30 95 255"
 		"LowHealth"			"242 36 60 255"
 		"BuffedHealth"		"50 227 107 255"
 		"teamRed"			"245 88 88 255"

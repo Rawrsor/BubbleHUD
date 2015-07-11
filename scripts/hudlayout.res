@@ -254,8 +254,8 @@
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"c-343"	[$WIN32]
-		"ypos"		"c40"	[$WIN32]
+		"xpos"		"c-263"	[$WIN32]
+		"ypos"		"c80"	[$WIN32]
 		"wide"		"500"
 		"tall"		"200"
 		"TextFont"	"Default"	[$X360]

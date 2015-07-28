@@ -380,13 +380,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TeamMenuAuto"
-		"xpos"			"c-280" [$WIN32] 
-		"xpos"			"c-276" [$X360]
-		"xpos_lodef"			"c-255"
-		"xpos_hidef"			"c-260"
+		"xpos"			"99999" [$WIN32] 
 		"ypos"			"55"
-		"ypos_lodef"			"72"
-		"ypos_hidef"			"65"
 		"zpos"			"1"
 		"wide"			"102" [$WIN32] 
 		"wide"			"94" [$X360]

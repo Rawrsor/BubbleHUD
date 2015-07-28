@@ -43,13 +43,44 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
-		"image"			"replay/thumbnails/Blu"
-		"scaleImage"	"1"	
+		"image"			"replay/thumbnails/Blu"	
 		"teambg_2"		"replay/thumbnails/Red"
 		"teambg_2_lodef"	"replay/thumbnails/Red"
 		"teambg_3"		"replay/thumbnails/Blu"
 		"teambg_3_lodef"	"replay/thumbnails/Blu"	
+		"alpha"			"0"
 	}
+	"WAdd"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"WAdd"
+		"xpos"			"c-160"
+		"ypos"			"c50"
+		"zpos"			"2"
+		"wide"			"75"
+		"tall"			"75"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"fillcolor"		"233 233 233 255"
+		"alpha"			"50"
+	}
+	"AAdd"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"AAdd"
+		"xpos"			"c-160"
+		"ypos"			"c50"
+		"zpos"			"2"
+		"wide"			"75"
+		"tall"			"75"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"fillcolor"		"AmmoInReserve"
+		"alpha"			"0"
+	}
+
 
 	"Refract"
 	{

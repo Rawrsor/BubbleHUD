@@ -1,6 +1,52 @@
 "Resource/HudLayout.res"
 {
 	
+	//Saving for main menu//
+	"Test"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"	"Test"
+		"xpos"	"c-50"
+		"ypos"	"c50"
+		"wide"	"100"
+		"tall"	"100"
+		"visible"	"0"
+		"enabled"	"0"
+
+		"Layer"
+		{
+			"ControlName"			"CExImageButton"
+			"fieldName"				"Layer"
+			"xpos"					"0"
+			"ypos"					"0"
+			"zpos"					"1"
+			"wide"					"100"
+			"tall"					"100"
+			"paintbackground"		"1"
+			"border_default"		"noborder"
+			"defaultbgcolor_override"		"48 49 50 140"
+			"armedbgcolor_override"			"0 0 0 0"
+			"textinsetx"	"999999"
+		}
+
+		"Test2"
+		{
+			"ControlName"			"imagePanel"
+			"fieldname"				"Test2"
+			"xpos"					"-10"
+			"ypos"					"0"
+			"zpos"					"0"
+			"wide"					"160"
+			"tall"					"120"
+			"visible"				"1"
+			"enabled"				"1"
+			"image"					"replay/thumbnails/serber"
+			"scaleimage"			"1"
+		}
+	}
+
+
+
 	//Rawrsor's Crosshair
 	Circle
 	{
@@ -506,7 +552,7 @@
 		"CornerRadius"	  "1"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"Default"
+		"TextFont"		"ScoreBoardVerySmall"
 		
 		"TeamBlue"		"88 166 245 255"
 		"TeamRed"		"245 88 88 255"

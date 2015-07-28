@@ -25,7 +25,7 @@ Scheme
  
                 "Blank"                         "0 0 0 0"
                
-                "SteamLightGreen"       "247 30 95 255"
+                "SteamLightGreen"       "72 95 215 255"
                 "AchievementsLightGrey"         "40 40 40 255"
                 "AchievementsDarkGrey"          "35 35 35 255"
                 "AchievementsInactiveFG"        "90 90 90 255"
@@ -46,7 +46,7 @@ Scheme
  
                 Button.TextColor                                "white"
                 Button.BgColor                                  "black"
-                Button.ArmedTextColor                   "247 30 95 255"
+                Button.ArmedTextColor                   "72 95 215 255"
                 Button.ArmedBgColor                             "black"       [$WIN32]
                 Button.ArmedBgColor                             "190 115 0 0"         [$X360]
                 Button.DepressedTextColor               "White"
@@ -58,7 +58,7 @@ Scheme
                 CheckButton.BgColor                             "black"
                 CheckButton.Border1                     "Border.Subtle"                 // the left checkbutton border
                 CheckButton.Border2                     "Border.Subtle"         // the right checkbutton border
-                CheckButton.Check                               "247 30 95 255"       // color of the check itself
+                CheckButton.Check                               "72 95 215 255"       // color of the check itself
                 CheckButton.HighlightFgColor    "OffWhite"
                 CheckButton.ArmedBgColor                "Blank"
                 CheckButton.DepressedBgColor    "Blank"
@@ -112,7 +112,7 @@ Scheme
                 ListPanel.TextBgColor                           "Blank"
                 ListPanel.BgColor                                       "black"
                 ListPanel.SelectedTextColor                     "White"
-                ListPanel.SelectedBgColor                       "247 30 95 255"
+                ListPanel.SelectedBgColor                       "72 95 215 255"
                 ListPanel.OutOfFocusSelectedTextColor   "Black"
                 ListPanel.SelectedOutOfFocusBgColor     "175 56 78 200"
                 ListPanel.EmptyListInfoTextColor        "Black"
@@ -120,7 +120,7 @@ Scheme
                 Menu.TextColor                                  "80 80 80 255"
                 Menu.BgColor                                    "black"
                 Menu.ArmedTextColor                             "White"
-                Menu.ArmedBgColor                               "247 30 95 255"
+                Menu.ArmedBgColor                               "72 95 215 255"
                 Menu.TextInset                                  "6"
  
                 Panel.FgColor                                   "DullWhite"
@@ -130,7 +130,7 @@ Scheme
                 ProgressBar.BgColor                             "white"
  
                 PropertySheet.TextColor                 "white"
-                PropertySheet.SelectedTextColor "247 30 95 255"
+                PropertySheet.SelectedTextColor "72 95 215 255"
                 PropertySheet.SelectedBgColor   "white"
                 PropertySheet.TransitionEffectTime      "0.0"  // time to change from one tab to another
                 PropertySheet.BgColor "0 0 0 255"
@@ -141,7 +141,7 @@ Scheme
                 RichText.TextColor                              "OffWhite"
                 RichText.BgColor                                "black"
                 RichText.SelectedTextColor              "White"
-                RichText.SelectedBgColor                "247 30 95 255"
+                RichText.SelectedBgColor                "72 95 215 255"
  
                 ScrollBar.Wide                                  15
  
@@ -162,7 +162,7 @@ Scheme
                 SectionedListPanel.BrightTextColor      "40 40 40 255"
                 SectionedListPanel.BgColor                      "black"
                 SectionedListPanel.SelectedTextColor                    "White"
-                SectionedListPanel.SelectedBgColor                              "247 30 95 255"
+                SectionedListPanel.SelectedBgColor                              "72 95 215 255"
                 SectionedListPanel.OutOfFocusSelectedTextColor  "Black"
                 SectionedListPanel.OutOfFocusSelectedBgColor    "148 64 79 255"
  
@@ -178,8 +178,8 @@ Scheme
                 TextEntry.DisabledTextColor     "DullWhite"
                 TextEntry.DisabledBgColor       "50 50 50 255"
                 TextEntry.SelectedTextColor     "white"
-                TextEntry.SelectedBgColor       "175 56 78 204"
-                TextEntry.OutOfFocusSelectedBgColor     "175 56 78 100"
+                TextEntry.SelectedBgColor       "72 95 215 255"
+                TextEntry.OutOfFocusSelectedBgColor     "72 95 215 255"
                 TextEntry.FocusEdgeColor        "0 0 0 196"
  
                 ToggleButton.SelectedTextColor  "White"
@@ -196,7 +196,7 @@ Scheme
                 MainMenu.TextColor                      "200 200 200 255"       [$X360]
                 MainMenu.ArmedTextColor         "200 200 200 255"       [$WIN32]
                 MainMenu.ArmedTextColor         "White"                         [$X360]
-                MainMenu.DepressedTextColor     "247 30 95 255"
+                MainMenu.DepressedTextColor     "72 95 215 255"
                 MainMenu.MenuItemHeight         "12"                            [$WIN32]
                 MainMenu.MenuItemHeight                 "22"                            [$X360]
                 MainMenu.MenuItemHeight_hidef   "12"                            [$X360]

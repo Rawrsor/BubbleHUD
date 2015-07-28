@@ -19,7 +19,7 @@ Scheme
 	Colors
 	{
 		//HUD Colors
-		"AmmoInReserve"		"247 30 95 255"  //"247 30 95 255"
+		"AmmoInReserve"		"72 95 215 255"  //"247 30 95 255"
 		"LowHealth"			"242 36 60 255"
 		"BuffedHealth"		"50 227 107 255"
 		"teamRed"			"245 88 88 255"
@@ -460,7 +460,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"12"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -468,7 +468,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"13"	[$WIN32]
 				"tall"		"20"	[$X360]
 				"weight"	"900"
@@ -477,7 +477,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"14"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -486,7 +486,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"20"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -495,7 +495,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"24"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -504,7 +504,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -541,7 +541,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -549,7 +549,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -557,7 +557,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -566,7 +566,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -575,7 +575,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"22"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -596,7 +596,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -604,7 +604,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -612,7 +612,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -621,7 +621,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -630,7 +630,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -642,7 +642,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"18"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -650,7 +650,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"21"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -658,7 +658,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"22"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -667,7 +667,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"28"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -676,7 +676,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"30"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -685,7 +685,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"20"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -716,7 +716,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"6"
 				"weight"	"500"
 				"additive"	"0"
@@ -727,14 +727,14 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"	"480 599"
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"13"	[$WIN32]
 				"tall"		"23"	[$X360]
 				"weight"	"700"
@@ -742,21 +742,21 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"	"768 1023"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"	"1024 1199"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"	"1200 10000"
@@ -1175,7 +1175,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -1186,7 +1186,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -1197,7 +1197,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"8"
 				"tall_hidef"	"9"
 				"tall_lodef"	"10"
@@ -1210,7 +1210,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"8"
 				"tall_hidef"	"7"
 				"weight"	"500"
@@ -1335,7 +1335,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"  "Verdana"
+				"name"  "Roboto Light"
 				"tall"  "28"
 				"weight" "0"
 				"additive" "1"
@@ -1459,7 +1459,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"13"
 				"tall_hidef"	"14"
 				"tall_lodef"	"17"
@@ -1530,7 +1530,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"8"
 				"tall_hidef"	"10"
 				"tall_lodef"	"14"
@@ -1697,7 +1697,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1705,7 +1705,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -1713,7 +1713,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -1721,7 +1721,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -1729,7 +1729,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -1748,7 +1748,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -1756,7 +1756,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -1764,7 +1764,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -1772,7 +1772,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -1783,7 +1783,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"10"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1791,7 +1791,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"10"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -1799,7 +1799,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -1807,7 +1807,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -1815,7 +1815,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"15"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -1878,7 +1878,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"8"
 				"tall_hidef"	"10"
 				"tall_lodef"	"12"
@@ -1891,7 +1891,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"9"
 				"tall_hidef"	"10"
 				"tall_lodef"	"16"
@@ -1905,7 +1905,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"11"  [!$OSX]
 				"tall"		"9"  [$OSX]
 				"weight"	"800"
@@ -1984,7 +1984,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"22"
 				"tall_lodef"		"18"
 				"weight"	"900"
@@ -1994,7 +1994,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"18"
 				"tall_lodef"		"18"
 				"weight"	"900"
@@ -2004,7 +2004,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"15"
 				"weight"	"900"
 			}
@@ -2057,7 +2057,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"10"
 				"weight"	"600"
 				"additive"	"0"
@@ -2068,7 +2068,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -2079,7 +2079,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -2091,7 +2091,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2100,7 +2100,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2109,7 +2109,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"15"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2166,7 +2166,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"8"
 				"antialias" "1"
 				"weight"	"500"
@@ -2223,7 +2223,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"1"
@@ -2234,7 +2234,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"1"
@@ -2245,7 +2245,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"7"
 				"weight"	"0"
 				"antialias" 	"1"
@@ -2255,7 +2255,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"7"
 				"weight"	"0"
 				"blur"		"3"
@@ -2268,7 +2268,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"7"
 				"weight"	"0"
 				"antialias" 	"1"
@@ -2376,7 +2376,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"8"
 				"weight"	"400"
 				"additive"	"0"
@@ -2387,7 +2387,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"8"
 				"weight"	"0"
 				"antialias" 	"1"
@@ -2401,7 +2401,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2409,7 +2409,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2417,7 +2417,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2426,7 +2426,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2435,7 +2435,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2458,7 +2458,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -2466,7 +2466,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -2474,7 +2474,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -2483,7 +2483,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -2492,7 +2492,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Roboto Light"
 				"tall"		"22"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -2901,6 +2901,48 @@ Scheme
 				"name"	"Paula"
 				"antialias"	"1"
 				"tall"		"72"
+				"blur"	"1"
+			}
+		}
+
+		"Circle92"
+		{
+			"1"
+			{
+				"name"	"Paula"
+				"antialias"	"1"
+				"tall"		"92"
+			}
+		}
+
+		"Circle92Shadow"
+		{
+			"1"
+			{
+				"name"	"Paula"
+				"antialias"	"1"
+				"tall"		"92"
+				"blur"	"1"
+			}
+		}
+
+		"Circle120"
+		{
+			"1"
+			{
+				"name"	"Paula"
+				"antialias"	"1"
+				"tall"		"120"
+			}
+		}
+
+		"Circle120Shadow"
+		{
+			"1"
+			{
+				"name"	"Paula"
+				"antialias"	"1"
+				"tall"		"120"
 				"blur"	"1"
 			}
 		}
@@ -5546,6 +5588,11 @@ Scheme
 		{
 			"font"	"resource/fonts/KnucklesCrosshairs.ttf"
 			"name"	"KnucklesCrosshairs"
+		}
+		"12"
+		{
+			"font"	"resource/fonts/Roboto-Light"
+			"name"	"Roboto Light"
 		}
 	}
 }

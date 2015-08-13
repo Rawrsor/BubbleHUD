@@ -1,10 +1,7 @@
-//To get circle health cross:
+//4Plug Support
 
--Rename resource/ui/hudplayerhealthCircle.res to hudplayerhealth.res
-
--Rename scripts/hudlayoutCircle.res to hudlayout.res
-
--Rename hudanimations_tfCircle.txt to hudanimations_tf.txt
+This hud now has support for the mod manager 4Plug!
+This program allows you to customize (so far) the health (circle cross or numbers), the scoreboard, the winpanel, and the backpack color scheme.
 
 //Color Customization
 

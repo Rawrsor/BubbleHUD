@@ -1,0 +1,50 @@
+[BG:#E9E9E9]
+Window();
+
+[Border:0, FG:323232]
+Banner("4plugresources\TopBanner.png", :auto", "center");
+
+[Name:Health, Default:Lower, BG:#323232, FG:E9E9E9, Border:1]
+GlobalComboBox("Health", "Health")
+{
+	Health Numbers (default)
+	Circle Health Cross
+}
+
+[Name:ScoreBoard, Default:Default, BG:#323232, FG:E9E9E9]
+DynamicFileSwitcher("resource\ui\scoreboard.res", "Score Board", 1);
+
+[Name:WinPanel, Default:Lower, BG:#323232, FG:E9E9E9, Border:1]
+GlobalComboBox("Win Panel", "WinPanel")
+{
+	No Blur (default)
+	Blurred Background
+}
+
+[Name:BackpackColors, Default:Default, BG:#323232, FG:E9E9E9]
+DynamicFileSwitcher("resource\clientscheme.res", "Backpack Colors", 1);
+
+
+#if Health == "Health Numbers (default)"
+{
+	Copy("resource\ui_overrides\HealthNumbers\hudanimations_tf.txt", "scripts\hudanimations_tf.txt");
+	Copy("resource\ui_overrides\HealthNumbers\hudlayout.res", "scripts\hudlayout.res");
+	Copy("resource\ui_overrides\HealthNumbers\hudplayerhealth.res", "resource\ui\hudplayerhealth.res");
+}
+
+#if Health == "Circle Health Cross"
+{
+	Copy("resource\ui_overrides\HealthCircle\hudanimations_tf.txt", "scripts\hudanimations_tf.txt");
+	Copy("resource\ui_overrides\HealthCircle\hudlayout.res", "scripts\hudlayout.res");
+	Copy("resource\ui_overrides\HealthCircle\hudplayerhealth.res", "resource\ui\hudplayerhealth.res");
+}
+
+#if Winpanel == "No Blur (default)"
+{
+	Copy("resource\ui_overrides\WinpanelNoBlur\winpanel.res", "resource\ui\winpanel.res");
+}
+
+#if Health == "Blurred Background"
+{
+	Copy("resource\ui_overrides\WinpanelBlur\winpanel.res", "resource\ui\winpanel.res");
+}

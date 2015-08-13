@@ -1,0 +1,6 @@
+name=BubbleHUD
+desc=A clean and simple tf2 HUD
+creator=Rawrsor
+steamid=76561198060818596
+url=https://github.com/Rawrsor/BubbleHUD
+version=1.0

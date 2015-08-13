@@ -866,10 +866,11 @@
 		"fieldName"				"WinPanel"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"c-150"
-		"ypos"					"215"
-		"wide"					"300"
-		"tall"					"300"
+		"xpos"					"0"
+		"ypos"					"0"
+		"zpos"					"10"
+		"wide"					"f0"
+		"tall"					"f0"
 	}
 
 	ArenaWinPanel

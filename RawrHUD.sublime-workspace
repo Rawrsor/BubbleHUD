@@ -7,6 +7,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "resource/ui/mainmenuoverride.res",
+			"settings":
+			{
+				"buffer_size": 93329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/gamemenu.res",
+			"settings":
+			{
+				"buffer_size": 2574,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -40,6 +56,8 @@
 	},
 	"expanded_folders":
 	[
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/resource",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/resource/ui"
 	],
 	"file_history":
 	[
@@ -189,6 +207,25 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"disconnect",
+			"resume",
+			"changeserver",
+			"serverbrowser",
+			"changeserver",
+			"serverchange",
+			"quickplaychangebutton",
+			"quickplaybutton",
+			"quickplaychangebutton",
+			"quickplaybutton",
+			"quickplay",
+			"resume",
+			"resumegame",
+			"event",
+			"resume",
+			"changeserver",
+			"disconnect",
+			"quitbutton",
+			"disconnect",
 			"eventpromo",
 			"questlog",
 			"eventpromo",
@@ -297,26 +334,7 @@
 			"playername",
 			"player",
 			"welcome",
-			"Customizelabel",
-			"Createlabel",
-			"playlabel",
-			"bridge",
-			"Pve",
-			"SettingsButton",
-			"CharacterSetup",
-			"PVE",
-			"Quickplay",
-			"Serverbrowser",
-			"SettingsButton",
-			"Charactersetup",
-			"PlayPVE",
-			"quickplay",
-			"serverbrowser",
-			"ServerBrowser",
-			"Quickplay",
-			"SettingsButton",
-			"CharacterSetupButton",
-			"SettingsButton"
+			"Customizelabel"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -343,8 +361,69 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "resource/ui/mainmenuoverride.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 93329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67768,
+								67778
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 48727.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resource/gamemenu.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								497,
+								497
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],

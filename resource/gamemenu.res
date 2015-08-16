@@ -2,7 +2,7 @@
 {
 	"ResumeGameButton"
 	{
-		"label"			"#MMenu_ResumeGame"
+		"label"			"Resume"
 		"command"		"ResumeGame"
 		"OnlyInGame"	"1"
 		"subimage" "icon_resume"
@@ -26,7 +26,7 @@
 		"label" "MvM" 
 		"command" "playpve"
 		"subimage" "glyph_coop"
-		"OnlyAtMenu" "1"
+		"OnlyAtMenu" "0"
 	}
 	"PlayCompetitiveButton"
 	{

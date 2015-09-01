@@ -2939,6 +2939,86 @@ Scheme
 			}
 		}
 
+		"MenuXB12"
+		{
+			"1"
+			{
+				"name"	"Roboto Bold"
+				"antialias"	"1"
+				"tall"	"12"
+			}
+		}
+
+		"MenuXB14"
+		{
+			"1"
+			{
+				"name"	"Roboto Bold"
+				"antialias"	"1"
+				"tall"	"14"
+			}
+		}
+
+		"MenuXB18"
+		{
+			"1"
+			{
+				"name"	"Roboto Bold"
+				"antialias"	"1"
+				"tall"	"18"
+			}
+		}
+
+		"MenuXB24"
+		{
+			"1"
+			{
+				"name"	"Roboto Bold"
+				"antialias"	"1"
+				"tall"	"24"
+			}
+		}
+
+		"MenuXB30"
+		{
+			"1"
+			{
+				"name"	"Roboto Bold"
+				"antialias"	"1"
+				"tall"	"30"
+			}
+		}
+
+		"MenuXB36"
+		{
+			"1"
+			{
+				"name"	"Roboto Bold"
+				"antialias"	"1"
+				"tall"	"36"
+			}
+		}
+
+		"MenuXB42"
+		{
+			"1"
+			{
+				"name"	"Roboto Bold"
+				"antialias"	"1"
+				"tall"	"42"
+			}
+		}
+
+		"MenuXB48"
+		{
+			"1"
+			{
+				"name"	"Roboto Bold"
+				"antialias"	"1"
+				"tall"	"48"
+			}
+		}
+
 		"Icon12"
 		{
 			"1"
@@ -5774,6 +5854,11 @@ Scheme
 		{
 			"font"	"resource/fonts/Icons.ttf"
 			"name"	"Icons"
+		}
+		"15"
+		{
+			"font"	"resource/fonts/Roboto-Bold.ttf"
+			"name"	"Roboto Bold"
 		}
 	}
 }

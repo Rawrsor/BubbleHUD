@@ -31,6 +31,20 @@
 		"sheetinset_bottom"				"40"
 	}
 	
+	"MenuBG1"
+	{
+		"ControlName"			"ImagePanel"
+		"fieldName"				"MenuBG1"
+		"xpos"					"c-307"
+		"ypos"					"c-121"
+		"zpos"					"-50"
+		"wide"					"654"
+		"tall"					"240"
+		"visible"				"1"
+		"enabled"				"1"
+		"fillcolor"				"233 233 233 255"			
+	}
+
 	"BackgroundHeader"
 	{
 		"ControlName"	"ImagePanel"
@@ -74,15 +88,30 @@
 		"scaleImage"	"1"
 	}				
 	
+
+	"HeaderLine2"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"HeaderLine2"
+		"xpos"			"0"
+		"ypos"			"17"
+		"zpos"			"-5"
+		"wide"			"f0"
+		"tall"			"36"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillColor"		"14 14 14 100"
+	}				
+
 	"Sheet"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Sheet"
 		"tabxindent"	"80"
-		"tabxdelta"		"10"
+		"tabxdelta"		"9"
 		"tabwidth"		"240"
 		"tabheight"		"34"
-		"transition_time" "0"
+		"transition_time" "0.5"
 		
 		"HeaderLine"
 		{
@@ -98,17 +127,19 @@
 			"image"			"loadout_solid_line"
 			"scaleImage"	"1"
 		}				
-		
+
 		"tabskv"
 		{
 			"textinsetx"		"40"
-			"font"				"HudFontMediumBold"
-			"selectedcolor"		"200 187 161 255"
-			"unselectedcolor"	"130 120 104 255"	
-			"defaultBgColor_override"	"46 43 42 255"
+			"font"				"MenuB24"
+			"selectedcolor"		"233 233 233 255"
+			"unselectedcolor"	"50 50 50 255"	
+			"defaultBgColor_override"	"0 0 0 0"
 			"paintbackground"	"0"
-			"activeborder_override"	"OutlinedGreyBox"
-			"normalborder_override" "OutlinedDullGreyBox"
+			"activeborder_override"	"NoBorder"
+			"normalborder_override" "NoBorder"
+
+			"pin_to_sibling" "CharFix"
 		}
 	}
 	

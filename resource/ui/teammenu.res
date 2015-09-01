@@ -140,7 +140,7 @@
 		"labelText"		"Blue"	[$WIN32]
 		"textAlignment"	"center"
 		"command"		"jointeam blue"
-		"font"			"Hud24Bold"
+		"font"			"MenuB24"
 		"fgcolor"			"75 75 75 255"
 		"defaultFgColor_override" "75 75 75 255"
 		"selectedFgColor_override" "233 233 233 255"
@@ -194,7 +194,7 @@
 		"labelText"		"Red"	[$WIN32]
 		"textAlignment"	"center"
 		"command"		"jointeam red"
-		"font"			"Hud24Bold"
+		"font"			"MenuB24"
 		"fgcolor"			"75 75 75 255"
 		"defaultFgColor_override" "75 75 75 255"
 		"selectedFgColor_override" "233 233 233 255"
@@ -246,7 +246,7 @@
 		"labelText"		"Auto-Join"	[$WIN32]
 		"textAlignment"	"center"
 		"command"		"jointeam auto"
-		"font"			"Hud24Bold"
+		"font"			"MenuB24"
 		"fgcolor"			"75 75 75 255"
 		"defaultFgColor_override" "75 75 75 255"
 		"selectedFgColor_override" "233 233 233 255"
@@ -286,7 +286,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"spec"
 		"xpos"			"c-100"
-		"ypos"			"c62"
+		"ypos"			"c60"
 		"zpos"			"3"
 		"wide"			"200"
 		"tall"			"32"
@@ -298,7 +298,7 @@
 		"labelText"		"Spectate"	[$WIN32]
 		"textAlignment"	"center"
 		"command"		"jointeam spectate"
-		"font"			"Hud24Bold"
+		"font"			"MenuB24"
 		"fgcolor_override" "AmmoInReserve"
 		"selectedFgColor_override"			"125 125 125 255"
 		"defaultBgColor_override"			"233 233 233 0"
@@ -362,7 +362,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TeamMenuSelect"
 		"xpos"			"c-100"
-		"ypos"			"c-61"
+		"ypos"			"c-64"
 		"zpos"			"6"
 		"wide"			"200"
 		"tall"			"32"
@@ -372,7 +372,7 @@
 		"enabled"		"1"
 		"labelText"		"Team Select"
 		"textAlignment"	"Center"
-		"font"			"Hud24Bold"
+		"font"			"MenuXB24"
 		"fgcolor"		"75 75 75 255"
 	}
 	

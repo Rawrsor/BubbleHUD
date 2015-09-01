@@ -19,6 +19,3 @@ startupmenu
 sv_unlockedchapters 99
 
 // nHUD
-
-exec PrismHud/config.cfg
-exec PrismHud/firstrun/main

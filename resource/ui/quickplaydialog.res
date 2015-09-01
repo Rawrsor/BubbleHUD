@@ -22,10 +22,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Container"
-		"xpos"		"c-200"
-		"ypos"		"c-205"
-		"wide"		"400"
-		"tall"		"410"
+		"xpos"		"0"
+		"ypos"		"0"
+		"wide"		"f0"
+		"tall"		"f0"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -33,7 +33,21 @@
 		"tabPosition"		"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"border"				"QuickplayBorder"
+		"border"				"NoBorder"
+
+		"MenuBG1"
+		{
+			"ControlName"			"ImagePanel"
+			"fieldName"				"MenuBG1"
+			"xpos"					"c-107"
+			"ypos"					"c-120"
+			"zpos"					"0"
+			"wide"					"454"
+			"tall"					"240"
+			"visible"				"1"
+			"enabled"				"1"
+			"fillcolor"				"233 233 233 255"			
+		}
 
 		"Background"
 		{
@@ -48,7 +62,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"40 37 37 255"
+			"bgcolor_override"	"0 0 0 0"
 			"proportionalToParent"	"1"
 		}
 

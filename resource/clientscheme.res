@@ -130,30 +130,30 @@ Scheme
 		"ItemFlags"								"117 107 94 255"
 		"ItemLimitedQuantity"					"225 209 0 255"
 		
-		"QualityColorNormal"					"178 178 178 255"
-		"QualityColorrarity1"					"77 116 85 255"
+		"QualityColorNormal"					"0 0 0 255"
+		"QualityColorrarity1"					"17 122 43 255"
 		"QualityColorrarity2"					"141 131 75 255"
 		"QualityColorrarity3"					"204 204 250 255"
-		"QualityColorrarity4"					"134 80 172 255"
-		"QualityColorVintage"					"71 98 145 255"
-		"QualityColorUnique"					"255 215 0 255"
+		"QualityColorrarity4"					"93 61 143 255"
+		"QualityColorVintage"					"60 62 117 255"
+		"QualityColorUnique"					"75 75 75 255"
 		"QualityColorCommunity"					"112 176 74 255"
 		"QualityColorDeveloper"					"165 15 121 255"
 		"QualityColorSelfMade"					"112 176 74 255"
 		"QualityColorCustomized"				"71 98 145 255"
-		"QualityColorStrange"					"207 106 50 255"
+		"QualityColorStrange"					"122 47 17 255"
 		"QualityColorCompleted"					"134 80 172 255"
 		"QualityColorHaunted"					"56 243 171 255"
 		"QualityColorCollectors"				"170 0 0 255"
 		"QualityColorPaintkitWeapon"			"250 250 250 255"
 
 		"ItemRarityDefault"						"131 126 119 255"
-		"ItemRarityCommon"						"176 195 217 255"
-		"ItemRarityUncommon"					"94 152 217 255"
-		"ItemRarityRare"						"75 105 255 255"
-		"ItemRarityMythical"					"136 71 255 255"
-		"ItemRarityLegendary"					"211 44 230 255"
-		"ItemRarityAncient"						"235 75 75 255"
+		"ItemRarityCommon"						"67 67 74 255"
+		"ItemRarityUncommon"					"105 105 122 255"
+		"ItemRarityRare"						"63 75 110 255"
+		"ItemRarityMythical"					"44 73 153 255"
+		"ItemRarityLegendary"					"126 25 138 255"
+		"ItemRarityAncient"						"168 13 78 255"
 		
 		"ItemRarityDefault_GreyedOut"			"44 42 40 255"
 		"ItemRarityCommon_GreyedOut"			"59 65 72 255"
@@ -2934,6 +2934,86 @@ Scheme
 			"1"
 			{
 				"name"	"Roboto Regular"
+				"antialias"	"1"
+				"tall"	"48"
+			}
+		}
+
+		"MenuXB12"
+		{
+			"1"
+			{
+				"name"	"Roboto Bold"
+				"antialias"	"1"
+				"tall"	"12"
+			}
+		}
+
+		"MenuXB14"
+		{
+			"1"
+			{
+				"name"	"Roboto Bold"
+				"antialias"	"1"
+				"tall"	"14"
+			}
+		}
+
+		"MenuXB18"
+		{
+			"1"
+			{
+				"name"	"Roboto Bold"
+				"antialias"	"1"
+				"tall"	"18"
+			}
+		}
+
+		"MenuXB24"
+		{
+			"1"
+			{
+				"name"	"Roboto Bold"
+				"antialias"	"1"
+				"tall"	"24"
+			}
+		}
+
+		"MenuXB30"
+		{
+			"1"
+			{
+				"name"	"Roboto Bold"
+				"antialias"	"1"
+				"tall"	"30"
+			}
+		}
+
+		"MenuXB36"
+		{
+			"1"
+			{
+				"name"	"Roboto Bold"
+				"antialias"	"1"
+				"tall"	"36"
+			}
+		}
+
+		"MenuXB42"
+		{
+			"1"
+			{
+				"name"	"Roboto Bold"
+				"antialias"	"1"
+				"tall"	"42"
+			}
+		}
+
+		"MenuXB48"
+		{
+			"1"
+			{
+				"name"	"Roboto Bold"
 				"antialias"	"1"
 				"tall"	"48"
 			}
@@ -5774,6 +5854,11 @@ Scheme
 		{
 			"font"	"resource/fonts/Icons.ttf"
 			"name"	"Icons"
+		}
+		"15"
+		{
+			"font"	"resource/fonts/Roboto-Bold.ttf"
+			"name"	"Roboto Bold"
 		}
 	}
 }

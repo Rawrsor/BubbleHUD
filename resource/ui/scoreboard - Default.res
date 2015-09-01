@@ -146,6 +146,18 @@
 		"enabled"		"1"
 		"fillcolor"		"50 50 50 200"
 	}
+	"BottomScoreBg2"
+	{
+		"controlName"	"ImagePanel"
+		"fieldName"		"BottomScoreBg"
+		"xpos"			"55"
+		"ypos"			"c124"
+		"wide"			"515"
+		"tall"			"10"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"50 50 50 200"
+	}
 
 	//End BubbleHUD Backgrounds
 
@@ -226,13 +238,13 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamLabel"
-		"font"			"Hud24Bold"
+		"font"			"MenuB24"
 		"labelText"		"%blueteamname%"
 		"textAlignment"		"west"
 		"xpos"			"173"
-		"ypos"			"c-143"	[$WIN32]
+		"ypos"			"c-145"	[$WIN32]
 		"zpos"			"6"
-		"wide"			"140"
+		"wide"			"142"
 		"tall"			"34"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -326,11 +338,11 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamPlayerCount"
-		"font"			"Hud18Bold"
+		"font"			"Menu18"
 		"labelText"		"%blueteamplayercount%"
 		"textAlignment"		"west"
 		"xpos"			"235"
-		"ypos"			"c-139"
+		"ypos"			"c-142"
 		"zpos"			"6"
 		"wide"			"130"
 		"tall"			"29"
@@ -349,11 +361,11 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamLabel"
-		"font"			"Hud24Bold"
+		"font"			"MenuB24"
 		"labelText"		"%redteamname%"
 		"textAlignment"		"east"
 		"xpos"			"425" 
-		"ypos"			"c-143"	[$WIN32]
+		"ypos"			"c-145"	[$WIN32]
 		"zpos"			"6"
 		"wide"			"140"
 		"tall"			"34"
@@ -449,11 +461,11 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamPlayerCount"
-		"font"			"Hud18Bold"
+		"font"			"Menu18"
 		"labelText"		"%redteamplayercount%"
 		"textAlignment"		"east"
 		"xpos"			"370"
-		"ypos"			"c-139"
+		"ypos"			"c-142"
 		"zpos"			"6"
 		"wide"			"130"
 		"tall"			"29"
@@ -484,7 +496,7 @@
 		"visible"		"1"	[$WIN32]
 		"visible"		"0"	[$X360]
 		"enabled"		"1"
-		"fgcolor"		"233 233 233 255"
+		"fgcolor_override"		"233 233 233 255"
 		
 		if_mvm
 		{
@@ -589,7 +601,7 @@
 		"labelText"		"%spectators%"
 		"textAlignment"		"center"
 		"xpos"			"55"
-		"ypos"			"c105"	[$WIN32]
+		"ypos"			"c119"	[$WIN32]
 		"zpos"			"4"
 		"wide"			"515"
 		"tall"			"20"
@@ -597,6 +609,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+		"fgcolor_override"		"233 233 233 255"
 		
 		if_mvm
 		{
@@ -696,7 +709,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"mapname"
-		"font"			"Hud18Bold"
+		"font"			"MenuB14"
 		"labelText"		"%mapname%"
 		"textAlignment"	"center"
 		"xpos"			"65"

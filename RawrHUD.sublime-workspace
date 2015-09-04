@@ -14,6 +14,54 @@
 				"buffer_size": 28339,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "resource/ui/quickplaydialog.res",
+			"settings":
+			{
+				"buffer_size": 25897,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/ui/mainmenuoverride.res",
+			"settings":
+			{
+				"buffer_size": 93317,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/clientscheme.res",
+			"settings":
+			{
+				"buffer_size": 123003,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/clientscheme - Default.res",
+			"settings":
+			{
+				"buffer_size": 123016,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/clientscheme - Darkly.res",
+			"settings":
+			{
+				"buffer_size": 123003,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resource/clientscheme - Brightly.res",
+			"settings":
+			{
+				"buffer_size": 123015,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -48,10 +96,12 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/scripts"
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/resource",
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/resource/ui"
 	],
 	"file_history":
 	[
+		"/C/ProgramData/DP45977C.lfl",
 		"/C/Users/Drew/AppData/Local/Temp/backpackpanel.res",
 		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/resource/ui/hudobjectiveflagpanel.res",
 		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/resource/ui/econ/backpackpanel.res",
@@ -178,8 +228,7 @@
 		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/resource/ui/huditemeffectmeter_spyknife.res",
 		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/resource/ui/hudkillstreaknotice.res",
 		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/resource/ui/hudmediccharge.res",
-		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/resource/ui/hudmenutauntselection.res",
-		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/resource/ui/hudobjectivekothtimepanel.res"
+		"/C/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/BubbleHUD/resource/ui/hudmenutauntselection.res"
 	],
 	"find":
 	{
@@ -198,6 +247,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"settings",
+			"icon12",
+			"quest",
 			"trade",
 			";",
 			"eventpromo",
@@ -322,10 +374,7 @@
 			"q",
 			"quest",
 			"contract",
-			"49",
-			"adcontainer",
-			"nextbutton",
-			"adcontainer"
+			"49"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -353,7 +402,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -380,10 +429,190 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 11914.0,
+						"translation.y": 12208.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resource/ui/quickplaydialog.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11456,
+								11456
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7032.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resource/ui/mainmenuoverride.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 93317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17014,
+								17014
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4894.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resource/clientscheme.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 123003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50363,
+								50456
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 38739.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resource/clientscheme - Default.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 123016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50376,
+								50376
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 38697.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resource/clientscheme - Darkly.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 123003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50456,
+								50456
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 38823.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resource/clientscheme - Brightly.res",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 123015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50468,
+								50468
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 38823.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]

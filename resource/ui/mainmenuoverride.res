@@ -847,9 +847,9 @@
 			"armedFgColor_override" 	"233 233 233 255"
 			"depressedFgColor_override" "50 50 50 255"
 
-			"defaultBgColor_override" 	"250 94 10 255"
-			"armedBgColor_override" 	"250 94 10 222"
-			"depressedBgColor_override" "250 94 10 255"
+			"defaultBgColor_override" 	"hudOrange"
+			"armedBgColor_override" 	"hudOrange"
+			"depressedBgColor_override" "hudOrange"
 
 			"SubImage"
 			{

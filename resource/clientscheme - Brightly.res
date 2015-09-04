@@ -24,6 +24,7 @@ Scheme
 		"BuffedHealth"		"50 227 107 255"
 		"teamRed"			"245 88 88 255"
 		"teamBlu"			"88 166 245 255"
+		"hudOrange"			"250 94 10 255"
 
 		// base colors
 		"Orange"			"178 82 22 255"
@@ -2779,6 +2780,15 @@ Scheme
 			}
 		}
 
+		"Menu8"
+		{
+			"1"
+			{
+				"name"	"Roboto Light"
+				"antialias"	"1"
+				"tall"	"8"
+			}
+		}
 		"Menu12"
 		{
 			"1"
@@ -3026,6 +3036,24 @@ Scheme
 				"name"			"Icons"
 				"antialias"		"1"
 				"tall"			"12"
+			}
+		}
+		"Icon14"
+		{
+			"1"
+			{
+				"name"			"Icons"
+				"antialias"		"1"
+				"tall"			"14"
+			}
+		}
+		"Icon18"
+		{
+			"1"
+			{
+				"name"			"Icons"
+				"antialias"		"1"
+				"tall"			"18"
 			}
 		}
 

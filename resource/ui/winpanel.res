@@ -214,18 +214,6 @@
 
 	}
 
-	"EVERYTHINGREFRACT"
-	{
-		"ControlName"		"imagepanel"
-		"fieldName"			"EVERYTHINGREFRACT"
-		"xpos"				"0"
-		"ypos"				"0"
-		"zpos"				"0"
-		"wide"				"f0"
-		"tall"				"f0"
-		"image"				"replay/thumbnails/blurfact"
-		"scaleimage"		"1"
-	}
 
 
 	"WinPanelBG"
